@@ -52,7 +52,7 @@
           <li><a href="#portfolio">Portafolio</a></li>
           <li class="drop-down"><a href="">Educacion</a>
             <ul>
-              <li><a href="#">Capacitacion</a></li>
+              <li><a href="#">Capacitaciones</a></li>
               <li><a href="#">Cursos Online</a></li>
               <li><a href="#">Blog</a></li>
               <li><a href="#">FAQ</a></li>
